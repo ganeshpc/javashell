@@ -17,6 +17,17 @@
         "command": "javashell.helloWorld",
         "title": "Hello World"
       }
+    ],
+    "notebooks": [
+      {
+        "type": "my-notebook",
+        "displayName": "My Notebook",
+        "selector": [
+          {
+            "filenamePattern": "*.javanb"
+          }
+        ]
+      }
     ]
   },
   "scripts": {
